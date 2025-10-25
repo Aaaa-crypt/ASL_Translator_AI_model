@@ -1,2 +1,2 @@
 # 3. similar to 2) but uses more epochs
-This was the third attempt. This used almost the same code as in the second attempt but with some small changes to try to achieve a higher accuracy. This script also used just 10% of the dataset.
+This was the third attempt. This used almost the same code as in the second attempt but with some small changes to try to achieve a higher accuracy. This script was also supposed to just use 10% of the dataset, however later it was realized that this script actually only used 10% of 10%, so in total just 1% of the overall dataset. This mistake was corrected in the next script.
